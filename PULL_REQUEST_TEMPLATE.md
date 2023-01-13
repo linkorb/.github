@@ -2,9 +2,7 @@
 
 Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If this relates to a card, please include a link to the card here.
 
-Addtionally:
-- Please provide a link to the Project HQ card related to the PR as part of the PR descrition
-- Please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
+Addtionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
 
 ## Types of changes
 
@@ -13,12 +11,12 @@ _Put an `x` in the boxe(s) that apply_
 
 - [ ] Bugfix: non-breaking change which fixes an issue)
 - [ ] New feature: non-breaking change which adds functionality)
-- [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected)
+- [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected
 - [ ] Chore: changes to the build process, continuous integration (CI) tools, or auxiliary tools and libraries
 - [ ] Test: adding or modifying tests
 - [ ] Docs: documentation changes
 - [ ] Perf: a code change that improves performance
-- [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc
 - [ ] Refactor: a code change that neither fixes a bug nor adds a feature
 
 
