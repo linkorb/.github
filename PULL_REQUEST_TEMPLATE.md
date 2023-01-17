@@ -11,7 +11,6 @@ _Put an `x` in the boxe(s) that apply_
 
 - [ ] Bugfix: non-breaking change which fixes an issue)
 - [ ] New feature: non-breaking change which adds functionality)
-- [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected
 - [ ] Chore: changes to the build process, continuous integration (CI) tools, or auxiliary tools and libraries
 - [ ] Test: adding or modifying tests
 - [ ] Docs: documentation changes
@@ -19,6 +18,8 @@ _Put an `x` in the boxe(s) that apply_
 - [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc
 - [ ] Refactor: a code change that neither fixes a bug nor adds a feature
 
+Please indicate if your PR introduces a breaking change
+- [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected
 
 ## Checklist
 
