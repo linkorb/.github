@@ -15,7 +15,7 @@ _Put an `x` in the boxe(s) that apply_
 - [ ] Test: adding or modifying tests
 - [ ] Docs: documentation changes
 - [ ] Perf: a code change that improves performance
-- [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc
+- [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - [ ] Refactor: a code change that neither fixes a bug nor adds a feature
 
 Please indicate if your PR introduces a breaking change
