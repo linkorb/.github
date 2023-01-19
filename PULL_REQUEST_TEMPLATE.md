@@ -2,7 +2,7 @@
 
 Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request.
 
-If this relates to a card, please include a link to the card here. Addtionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
+If this relates to a card, please include a link to the card here. Additionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
 
 ## Types of changes
 
