@@ -7,7 +7,7 @@ If this relates to a card, please include a link to the card here. Additionally,
 ## Types of changes
 
 What types of changes does your code introduce?
-_Put an `x` in the boxe(s) that apply_
+_Put an `x` in the boxes that apply_
 
 - [ ] Bugfix: non-breaking change which fixes an issue)
 - [ ] New feature: non-breaking change which adds functionality)
