@@ -2,12 +2,12 @@
 
 Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request.
 
-If this relates to a card, please include a link to the card here. Addtionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
+If this relates to a card, please include a link to the card here. Additionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234`
 
 ## Types of changes
 
 What types of changes does your code introduce?
-_Put an `x` in the boxe(s) that apply_
+_Put an `x` in the boxes that apply_
 
 - [ ] Bugfix: non-breaking change which fixes an issue)
 - [ ] New feature: non-breaking change which adds functionality)
