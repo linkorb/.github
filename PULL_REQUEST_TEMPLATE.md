@@ -26,7 +26,7 @@ Please indicate if your PR introduces a breaking change
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
 
 - [ ] I have read the [Contributing](https://github.com/linkorb/.github/blob/master/CONTRIBUTING.md) doc
-- [ ] I have read the [Git and PR best practices at LinkORB guide](https://engineering.linkorb.com/topics/github-codespaces/articles/git-pr-practices/) doc
+- [ ] I have read the [Creating and reviewing pull requests at LinkORB guide](https://engineering.linkorb.com/topics/git/articles/reviewing-pr/) doc
 - [ ] Lint and unit tests pass locally with my changes
 - [ ] I have added/updated necessary documentation in the README.md or doc/ directories (if appropriate)
 
