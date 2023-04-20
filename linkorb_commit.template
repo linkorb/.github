@@ -1,13 +1,14 @@
-# See https://engineering.linkorb.com/topics/github-codespaces/articles/commit-templates for more information
+# See https://engineering.linkorb.com/topics/github-codespaces/articles/commit-standards for more information
 #
 # Write a 50-character or less commit header below
-# It should take the form: <type>[scope]: <description>
+# It should take the form: <type>[scope]: <description> #<cardNumber>
 # -----------------------50 characters ends here:#
 
 
 # [optional body]
 # Summarize changes and the motivation for such changes below:
 # Keep lines short (72 characters or less) ----72 characters ends here:#
+# Ending a commit header with a card number is preferred, it is also acceptable in the commit body
 
 
 # [optional footer]

@@ -8,10 +8,9 @@ The _**README.md**_ file at the root of each repository is a great resource for 
 
 ## Making changes 🛠
 
-
 Don't work directly on the `main` branch of a project. Clone the repository to your computer or open it in a Codespace and create a new branch (with a 2- to 3-word descriptive name) for that change. 
 
-Review the [Write effective commit messages with a template](https://engineering.linkorb.com/topics/git/articles/commit-template) guide for our commit message conventions.
+Review the [Write effective commit messages with a template](https://engineering.linkorb.com/topics/git/articles/commit-standards) guide for our commit message conventions.
 
 ## Submitting and reviewing changes 🚀
 
