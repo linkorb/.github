@@ -9,14 +9,17 @@ If this relates to a card, please include a link to the card here. Additionally,
 What types of changes does your code introduce?
 _Put an `x` in the boxes that apply_
 
-- [ ] Bugfix: non-breaking change which fixes an issue)
-- [ ] New feature: non-breaking change which adds functionality)
-- [ ] Chore: changes to the build process, continuous integration (CI) tools, or auxiliary tools and libraries
-- [ ] Test: adding or modifying tests
-- [ ] Docs: documentation changes
-- [ ] Perf: a code change that improves performance
-- [ ] Style: changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
-- [ ] Refactor: a code change that neither fixes a bug nor adds a feature
+- [ ] feat: non-breaking change which adds new functionality
+- [ ] fix: non-breaking change which fixes a bug or an issue
+- [ ] chore(deps): changes to dependencies
+- [ ] test: adds or modifies a test
+- [ ] docs: creates or updates documentation
+- [ ] style: changes that do not affect the meaning or function of code (e.g. formatting, whitespace, missing semi-colons etc.)
+- [ ] perf: code change that improves performance
+- [ ] revert: reverts a commit
+- [ ] refactor: code change that neither fix a bug nor add a new feature
+- [ ] ci: changes to continuous integration or continuous delivery scripts or configuration files
+- [ ] chore: general tasks or anything that doesn't fit the other commit types
 
 Please indicate if your PR introduces a breaking change
 - [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected
