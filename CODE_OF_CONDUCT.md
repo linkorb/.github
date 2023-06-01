@@ -1,4 +1,6 @@
-**TL;DR:** Be nice. Provide and accept constructive feedback. Avoid spamming, abusive, trolling, and otherwise unacceptable behaviour. Repeat violations may lead to a permanent ban.
+## TL;DR
+
+Be nice. Provide and accept constructive feedback. Avoid spamming, abusive, trolling, and otherwise unacceptable behaviour. Repeat violations may lead to a permanent ban.
 
 ## Scope
 
@@ -10,7 +12,7 @@ representative at an online or offline event.
 
 ## Our Pledge
 
-We as members, contributors, and maintainers pledge to make participation in our
+We as contributors, maintainers, end users, and sponsors of this project pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
