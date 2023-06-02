@@ -1,6 +1,6 @@
 ## TL;DR
 
-Be nice. Provide and accept constructive feedback. Avoid spamming, abusive, trolling, and otherwise unacceptable behaviour. Repeat violations may result in a permanent ban.
+Be nice. Provide and accept constructive feedback. Avoid spamming, abusive, trolling, and otherwise unacceptable behavior. Repeat violations may result in a permanent ban.
 
 ## Scope
 
