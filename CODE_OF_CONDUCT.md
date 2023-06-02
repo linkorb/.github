@@ -4,7 +4,7 @@ Be nice. Provide and accept constructive feedback. Avoid spamming, abusive, trol
 
 ## Scope
 
-This Code of Conduct applies to all persons, including contributors, maintainers, end users, sponsors, etc., who interract with this project. It applies within all community spaces, and also applies when
+This Code of Conduct applies to all persons, including contributors, maintainers, end users, sponsors, etc., who interact with this project. It applies within all community spaces and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official email address,
 posting via an official social media account, or acting as an appointed
