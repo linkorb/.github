@@ -4,23 +4,6 @@
 
 If this relates to a card, please include a link to the card here. Additionally, please terminate the PR title with `#` and the card number, such as `Fix doomsday bug #1234` -->
 
-## Types of changes
-
-<!-- What types of changes does your code introduce?
-_Put an `x` in the boxes that apply_ -->
-
-- [ ] feat: non-breaking change which adds new functionality
-- [ ] fix: non-breaking change which fixes a bug or an issue
-- [ ] chore(deps): changes to dependencies
-- [ ] test: adds or modifies a test
-- [ ] docs: creates or updates documentation
-- [ ] style: changes that do not affect the meaning or function of code (e.g. formatting, whitespace, missing semi-colons etc.)
-- [ ] perf: code change that improves performance
-- [ ] revert: reverts a commit
-- [ ] refactor: code change that neither fix a bug nor add a new feature
-- [ ] ci: changes to continuous integration or continuous delivery scripts or configuration files
-- [ ] chore: general tasks or anything that doesn't fit the other commit types
-
 <!-- Please indicate if your PR introduces a breaking change -->
 - [ ] Breaking change: fix or feature that would cause existing functionality to not work as expected
 
